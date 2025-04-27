@@ -12,8 +12,7 @@ header {
 }
 
 body {
-  background-image: url(https://images.unsplash.com/photo-1600463046472-73e1ebaf460a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-  font-family: "BedsteadRegular", sans-serif;
+  background-image: url(../images/background.png);
   font-weight: normal;
   font-style: normal;
   margin: 0;
